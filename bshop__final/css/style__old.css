@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+ul {
+	list-style-type: none;
+}
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+}
+.main-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
